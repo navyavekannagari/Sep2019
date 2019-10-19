@@ -21,12 +21,12 @@ namespace sep2019
             LoginPage loginPage = new LoginPage();
             loginPage.LoginSuccess(driver);
             //Home page
-            HomePage home = new HomePage(driver);
-            home.ClickAdminstration();
-            home.ClickTimenMaterial();
+            //HomePage home = new HomePage(driver);
+            //home.ClickAdminstration();
+            //home.ClickTimenMaterial();
             // Time n Material page
-            TimeMaterialPage timeMaterial = new TimeMaterialPage(driver);
-            timeMaterial.ClickCreateNewBtn();
+            //TimeMaterialPage timeMaterial = new TimeMaterialPage(driver);
+            //timeMaterial.ClickCreateNewBtn();
             //timeMaterial.Validaterecord();
             //Create Time n Material Page
             //TimeMaterialCreatePage timeMaterialCreate = new TimeMaterialCreatePage(driver);

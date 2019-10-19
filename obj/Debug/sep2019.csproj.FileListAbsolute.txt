@@ -19,3 +19,7 @@ C:\Users\arun\source\repos\sep2019\sep2019\bin\Debug\nunit.framework.xml
 C:\Users\arun\source\repos\sep2019\sep2019\bin\Debug\Newtonsoft.Json.dll
 C:\Users\arun\source\repos\sep2019\sep2019\bin\Debug\TechTalk.SpecFlow.dll
 C:\Users\arun\source\repos\sep2019\sep2019\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arun\source\repos\sep2019\sep2019\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\arun\source\repos\sep2019\sep2019\bin\Debug\ExcelDataReader.dll
+C:\Users\arun\source\repos\sep2019\sep2019\bin\Debug\ExcelDataReader.xml
+C:\Users\arun\source\repos\sep2019\sep2019\bin\Debug\ExcelDataReader.DataSet.xml
