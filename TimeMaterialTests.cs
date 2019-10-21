@@ -35,12 +35,14 @@ namespace sep2019
             home.ClickTimenMaterial();
             //EditTimenMaterial editing = new EditTimenMaterial(driver);
             //editing.EditData();
+            TimeMaterialPage timeMaterial = new TimeMaterialPage(driver);
+            timeMaterial.ClickCreateNewBtn();
             TimeMaterialCreatePage timeMaterialCreate = new TimeMaterialCreatePage(driver);
             timeMaterialCreate.FillInValidDetails();
+            timeMaterialCreate.AttachFile();
             timeMaterialCreate.ClickSave();
 
-            //TimeMaterialPage timeMaterial = new TimeMaterialPage(driver);
-            ////timeMaterial.ClickCreateNewBtn();
+           
             //timeMaterial.ValidateRecord();
         }
         [Test]
